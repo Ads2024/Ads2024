@@ -36,7 +36,7 @@ Here are some of my favorite projects:
 ---
 
 ## 📈 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ads2024)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Ads2024)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ads2024&theme=dark&background=000000)](https://git.io/streak-stats)
 
