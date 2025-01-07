@@ -45,8 +45,8 @@ Here are some of my favorite projects:
 
 
 ## 🎨 GitHub Activity Graph
+[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ads2024&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ads2024&theme=github)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 
 
