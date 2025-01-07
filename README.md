@@ -37,7 +37,8 @@ Here are some of my favorite projects:
 
 ## 📈 GitHub Stats
 
-![Ads2024's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ads2024&show_icons=true&theme=default)
+![Ads2024's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Ads2024)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ads2024&theme=dark&background=000000)](https://git.io/streak-stats)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ads2024&layout=compact)
 
 ---
