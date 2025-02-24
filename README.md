@@ -4,11 +4,6 @@ Welcome to my GitHub profile! I'm a passionate BI developer who loves building i
 
 ---
 
-## 👩‍💻 About Me
-
-- 🌱 **Currently Learning:** cloud architecture, container orchestration and mobile distrubuted systems.
-- 💬 **Ask Me About:** JavaScript, Python, Docker, Java or best practices for scalable app development.
-- ⚡ **Fun Fact:** I play the guitar and love jamming with my local band.
 
 ---
 
