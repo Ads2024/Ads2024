@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile! I'm a passionate BI developer who loves building impactful software solutions. I enjoy learning new technologies and collaborating on innovative projects.
+Welcome to my GitHub profile! I'm a Data Analyst & Analytics Engineer who loves building impactful analytical solutions. I enjoy learning new technologies and collaborating on innovative projects.
 
 ---
 
