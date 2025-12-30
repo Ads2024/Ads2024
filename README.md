@@ -36,7 +36,7 @@ Check out more of my repositories [here](https://github.com/Ads2024?tab=reposito
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ads2024&theme=dark&background=000000)](https://git.io/streak-stats)
 
-![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ads2024&layout=compact&theme=vision-friendly-dark)
+![My Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ads2024&layout=compact&theme=vision-friendly-dark)
 
 
 ---
