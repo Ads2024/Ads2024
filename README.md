@@ -1,6 +1,6 @@
-# Hi there! 👋
+# Hi
 
-Welcome to my GitHub profile! I'm a Data Analyst & Analytics Engineer who loves building impactful analytical solutions. I enjoy learning new technologies and collaborating on innovative projects.
+Welcome to my GitHub profile! I'm a Data Engineer who loves building impactful analytical solutions. I enjoy learning new technologies and collaborating on innovative projects.
 
 ---
 
@@ -18,20 +18,21 @@ Welcome to my GitHub profile! I'm a Data Analyst & Analytics Engineer who loves 
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 Here are some of my favorite projects:
 
-- [**Linear Programming Model for optimised College**](https://ads2024.github.io/US-College-Optimizer-LP-Model/): A Linear Programming (LP) model designed to help students make strategic college application decisions based on their GPA.
+- [**SQL Schema Version Control System Extractor**](https://github.com/Ads2024/sql-schema-version-control): Incremental SQL schema extraction and version control for Microsoft Fabric and On-Premises SQL Server.
+- [**Fabric Sharepoint Pipeline**](https://github.com/Ads2024/fabric-sharepoint-pipeline): Pipeline designed to mass-generate, archive, and distribute Power BI reports. It orchestrates a workflow by querying Microsoft Fabric Lakehouse for dynamic targets, exporting filtered reports via the Power BI REST API, archiving files to SharePoint.
 - [**Portfolio Website**](https://ads2024.github.io/): My personal portfolio showcasing my projects, and work history.
-- [**BMW Stock Analysis**](https://bmw-stock-analysis-dashboard.streamlit.app/): A Streamlit-based analytics app leveraging BMW stock data.
+- [**Linear Programming Model for optimised College**](https://ads2024.github.io/US-College-Optimizer-LP-Model/): A Linear Programming (LP) model designed to help students make strategic college application decisions based on their GPA.
 - [**A/B Testing Campaign Analysis**](https://ads2024.github.io/AB-Testing-Campaign-Analysis/): Performance of two marketing campaigns using A/B testing methodology.
 
-👉 Check out more of my repositories [here](https://github.com/Ads2024?tab=repositories)!
+Check out more of my repositories [here](https://github.com/Ads2024?tab=repositories)!
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ads2024&theme=dark&background=000000)](https://git.io/streak-stats)
 
@@ -40,7 +41,7 @@ Here are some of my favorite projects:
 ---
 
 
-## 🎨 GitHub Activity Graph
+## GitHub Activity Graph
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ads2024&bg_color=0d1117&color=ffffff&line=00ff00&point=00ff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
