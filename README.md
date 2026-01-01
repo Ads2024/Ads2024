@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a Data Engineer who loves building impactful a
 
 ## Featured Projects
 
-Here are some of my favorite projects:
+Here are some of my  projects:
 
 - [**SQL Schema Version Control System Extractor**](https://github.com/Ads2024/sql-schema-version-control): Incremental SQL schema extraction and version control for Microsoft Fabric and On-Premises SQL Server.
 - [**Fabric Sharepoint Pipeline**](https://github.com/Ads2024/fabric-sharepoint-pipeline): Pipeline designed to mass-generate, archive, and distribute Power BI reports. It orchestrates a workflow by querying Microsoft Fabric Lakehouse for dynamic targets, exporting filtered reports via the Power BI REST API, archiving files to SharePoint.
